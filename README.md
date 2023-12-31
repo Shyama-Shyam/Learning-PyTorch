@@ -1,2 +1,2 @@
 # Learning-PyTorch
-Learning to develop DL models in PyTorch 
+Learning to develop Deep Learning models in PyTorch 
